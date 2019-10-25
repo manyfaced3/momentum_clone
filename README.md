@@ -1,5 +1,5 @@
 # momentum_clone - 크롬 모멘텀 클론코딩
-[Try Me!](https://manyfaced3.github.io/momentum_clone/)
+<h1>[Try Me!](https://manyfaced3.github.io/momentum_clone/)</h1>
 
 
 # Screenshot
@@ -11,7 +11,7 @@
 [동영상시연](https://youtu.be/5C8LhuPMUjo)
 
 # 동기
-- 자바스크립트를 십분 활용하여 크롬 확장프로그램 모멘텀(https://momentumdash.com/)을 클론코딩했습니다.
+- 자바스크립트를 십분 활용하여 크롬 확장프로그램 모멘텀(https://momentumdash.com/ )을 클론코딩했습니다.
 
 # 개발환경
 > Front-End
