@@ -1,5 +1,5 @@
 # momentum_clone - 크롬 모멘텀 클론코딩
-<h1>[Try Me!](https://manyfaced3.github.io/momentum_clone/)</h1>
+<h3> Try Me! (https://manyfaced3.github.io/momentum_clone/)</h3>
 
 
 # Screenshot
